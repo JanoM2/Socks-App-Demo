@@ -33,5 +33,7 @@ npm run build
 ![1](https://github.com/JanoM2/Socks-App-Demo/assets/78227130/1fface54-60a4-4409-9ff0-8819370349c7)
 ![2](https://github.com/JanoM2/Socks-App-Demo/assets/78227130/0357dc53-282f-404e-8cb6-6cecfedfefd6)
 
+![image](https://github.com/JanoM2/Socks-App-Demo/assets/78227130/c2a733d0-8019-4deb-b7a2-1589befeb6f9)
+![image](https://github.com/JanoM2/Socks-App-Demo/assets/78227130/c2a733d0-8019-4deb-b7a2-1589befeb6f9)
 
 
